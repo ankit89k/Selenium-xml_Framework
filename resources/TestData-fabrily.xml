@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestData>
+	<login>
+		<datasets>
+			<dataset>
+				<username>ankit.khandelwal@weboniselab.com</username>
+				<paswd>qwerty</paswd>
+			</dataset>
+		</datasets>		
+	</login>
+
+	<testingXpath>
+			<datasets>
+			<dataset>
+				<username>ankit.khandelwal@weboniselab.com</username>
+				<paswd>qwerty</paswd>
+			</dataset>
+		</datasets>
+	</testingXpath>
+
+    <homePageLogin>
+        <datasets>
+			<dataset>
+				<username>ankit.khandelwal@weboniselab.com</username>
+				<paswd>qwerty</paswd>
+			</dataset>
+		</datasets>	
+    </homePageLogin>
+
+    <startCampaign>
+        <datasets>
+            <dataset>
+				<username>ankit.khandelwal@weboniselab.com</username>
+				<paswd>qwerty</paswd> 
+				<addtionalProfit>3.35</addtionalProfit>              
+				<addtionalProfit1>2.35</addtionalProfit1>
+				<addtionalProfit2>2.25</addtionalProfit2>
+				
+            </dataset>
+        </datasets>
+    </startCampaign>
+
+
+	<log>
+		<datasets>
+			<dataset>
+				<username>tanushree@weboapps.com</username>
+				<paswd>123123123</paswd>
+			</dataset>
+			<dataset>
+				<username>pratik@weboapps.com</username>
+				<paswd>test123</paswd>
+			</dataset>
+			<dataset>
+				<username>yogesh@weboapps.com</username>
+				<paswd>yogesh</paswd>
+			</dataset>
+			<dataset>
+				<username>editor_live@drf.com</username>
+				<paswd>editor2014</paswd>
+			</dataset>
+		</datasets>	
+	</log>
+	<Join>
+	    <datasets>
+	        <dataset>
+	            <username>prashant@weboapps.com</username>
+	            <paswd>prashant123</paswd>
+	            <confirmPas>prashant123</confirmPas>
+	        </dataset>
+	        <dataset>
+	            <username>Chirag@weboapps.com</username>
+	            <paswd>chichi</paswd>
+	            <confirmPas>chichi</confirmPas>
+	        </dataset>
+	        <dataset>
+	            <username>nitesh@weboapps.com</username>
+	            <paswd>nitesh</paswd>
+	            <confirmPas>nitesh</confirmPas>
+	        </dataset>
+	        <dataset>
+	            <username>pushkraj@weboapps.com</username>
+	            <paswd>pushkya</paswd>
+	            <confirmPas>pushkya</confirmPas>
+	        </dataset>
+	    </datasets>
+	</Join>
+	<newUserRegistration>
+		<datasets>
+			<dataset>
+				<emailId>testingabc1@weboapps.com</emailId>
+				<password>password</password>
+			</dataset>
+		</datasets>
+	</newUserRegistration>
+	
+</TestData>

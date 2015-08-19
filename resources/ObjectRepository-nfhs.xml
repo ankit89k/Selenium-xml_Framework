@@ -1,0 +1,27 @@
+<NFHS>
+    
+	<newUserRegistration>
+		  <registrationLink>linktext=Register</registrationLink>
+	    <userEmail>id=email</userEmail> 
+	    <conformUserEmail>id=confirmemail</conformUserEmail>
+	    <password>id=password</password>
+	    <confpassword>id=confirmpassword</confpassword>
+	    <nextBtn>name=commit</nextBtn>  
+	    <errorMessage>class=flash-error</errorMessage>
+	    <formErrorMessage>xpath=//label[@class='error']</formErrorMessage>
+      <firstNameField>id=inputFname</firstNameField>
+      <lastnameField>id=inputLname</lastnameField>
+      <addressLine1Field>id=inputAddressOne</addressLine1Field>
+      <addressLine2Field>id=inputAddressTwo</addressLine2Field>
+      <cityField>id=inputCity</cityField>
+      <stateField>id=profile_state</stateField>
+      <zipField>id=inputZip</zipField>
+      <phoneNumberField>id=inputPhone</phoneNumberField>
+      
+
+	</newUserRegistration>
+	    
+</NFHS>
+
+
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestData>
+	<newUserRegistration>
+		<datasets>
+			<dataset>
+				<emailId>testingabc4@weboapps.com</emailId>
+				<password>password</password>
+				<firstName>Test</firstName>
+				<lastName>ABC</lastName>
+				<addressLine1>TESTABC</addressLine1>
+				<addressLine2>TESTABC</addressLine2>
+				<city>TEST</city>
+				<state>California</state>
+				<zip>12345</zip>
+				<phoneNumber>1234567890</phoneNumber>
+			</dataset>
+		</datasets>
+	</newUserRegistration>
+</TestData>
